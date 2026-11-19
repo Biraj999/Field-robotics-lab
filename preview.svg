@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 414" role="img">
+<title>Canopy Confidence plot review</title>
+<desc>Estimated crop canopy cover by plot with accepted pass count and review status.</desc>
+<rect width="880" height="414" rx="20" fill="#F1F6F1"/>
+<rect width="880" height="80" rx="20" fill="#12392F"/>
+<path d="M0 55h880v25H0z" fill="#12392F"/>
+<g font-family="system-ui, sans-serif" fill="#12392F">
+<text x="26" y="35" fill="#FFFFFF" font-size="25" font-weight="700">Canopy Confidence</text>
+<text x="26" y="60" fill="#C0E3CF" font-size="14">UAV survey review · Low-cover threshold 40%</text>
+<g fill="#36534B" font-size="13" font-weight="700">
+<text x="26" y="109">Plot</text><text x="195" y="109">Estimated green cover</text>
+<text x="585" y="109">Passes</text><text x="668" y="109">Review status</text>
+</g>
+<rect x="14" y="119" width="852" height="38" rx="7" fill="#FFFFFF"/>
+<text x="26" y="145" font-size="14">A2</text>
+<rect x="195" y="134" width="330" height="12" rx="6" fill="#DCE6DF"/>
+<rect x="195" y="134" width="100.65" height="12" rx="6" fill="#AD451F"/>
+<path d="M327 132v16" stroke="#12392F" stroke-width="1.5"/>
+<text x="535" y="145" font-size="13">30.5%</text>
+<text x="603" y="145" text-anchor="middle" font-size="14">2</text>
+<text x="668" y="145" fill="#AD451F" font-size="14" font-weight="600">Low cover</text>
+<rect x="14" y="161" width="852" height="38" rx="7" fill="#E7EFE8"/>
+<text x="26" y="187" font-size="14">B1</text>
+<rect x="195" y="176" width="330" height="12" rx="6" fill="#DCE6DF"/>
+<rect x="195" y="176" width="127.875" height="12" rx="6" fill="#8B4B83"/>
+<path d="M327 174v16" stroke="#12392F" stroke-width="1.5"/>
+<text x="535" y="187" font-size="13">38.75%</text>
+<text x="603" y="187" text-anchor="middle" font-size="14">2</text>
+<text x="668" y="187" fill="#8B4B83" font-size="14" font-weight="600">Conflicting passes</text>
+<rect x="14" y="203" width="852" height="38" rx="7" fill="#FFFFFF"/>
+<text x="26" y="229" font-size="14">B2</text>
+<rect x="195" y="218" width="330" height="12" rx="6" fill="#DCE6DF"/>
+<rect x="195" y="218" width="115.5" height="12" rx="6" fill="#526681"/>
+<path d="M327 216v16" stroke="#12392F" stroke-width="1.5"/>
+<text x="535" y="229" font-size="13">35%</text>
+<text x="603" y="229" text-anchor="middle" font-size="14">1</text>
+<text x="668" y="229" fill="#526681" font-size="14" font-weight="600">More passes needed</text>
+<rect x="14" y="245" width="852" height="38" rx="7" fill="#E7EFE8"/>
+<text x="26" y="271" font-size="14">B3</text>
+<rect x="195" y="260" width="330" height="12" rx="6" fill="#DCE6DF"/>
+<path d="M327 258v16" stroke="#12392F" stroke-width="1.5"/>
+<text x="535" y="271" font-size="13">—</text>
+<text x="603" y="271" text-anchor="middle" font-size="14">0</text>
+<text x="668" y="271" fill="#526681" font-size="14" font-weight="600">More passes needed</text>
+<rect x="14" y="287" width="852" height="38" rx="7" fill="#FFFFFF"/>
+<text x="26" y="313" font-size="14">A1</text>
+<rect x="195" y="302" width="330" height="12" rx="6" fill="#DCE6DF"/>
+<rect x="195" y="302" width="212.85" height="12" rx="6" fill="#14725C"/>
+<path d="M327 300v16" stroke="#12392F" stroke-width="1.5"/>
+<text x="535" y="313" font-size="13">64.5%</text>
+<text x="603" y="313" text-anchor="middle" font-size="14">2</text>
+<text x="668" y="313" fill="#14725C" font-size="14" font-weight="600">Stable cover</text>
+<rect x="14" y="329" width="852" height="38" rx="7" fill="#E7EFE8"/>
+<text x="26" y="355" font-size="14">C1</text>
+<rect x="195" y="344" width="330" height="12" rx="6" fill="#DCE6DF"/>
+<rect x="195" y="344" width="191.4" height="12" rx="6" fill="#14725C"/>
+<path d="M327 342v16" stroke="#12392F" stroke-width="1.5"/>
+<text x="535" y="355" font-size="13">58%</text>
+<text x="603" y="355" text-anchor="middle" font-size="14">3</text>
+<text x="668" y="355" fill="#14725C" font-size="14" font-weight="600">Stable cover</text>
+<text x="26" y="398" fill="#36534B" font-size="12">The tick mark shows the low-cover threshold. Single-pass estimates are provisional.</text>
+</g></svg>
