@@ -1,0 +1,8 @@
+id,ready,due
+filter,0,8
+belt,2,12
+bearing,5,10
+nozzle,9,15
+lens,12,19
+fan,16,20
+guard,18,24

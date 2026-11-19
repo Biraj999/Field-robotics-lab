@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 340">
+<title>Quiet Window dispatch timeline</title>
+<rect width="780" height="340" rx="16" fill="#eaf3f4"/>
+<g font-family="sans-serif" fill="#0e3440">
+<text x="26" y="36" font-size="25" font-weight="bold">Quiet Window</text>
+<text x="26" y="63" font-size="14">3 dispatches for 7 reminders</text>
+<text x="180" y="87" font-size="12">Bars show allowed windows. Dots show dispatches.</text>
+<text x="26" y="115" font-size="14">filter</text>
+<line x1="180.00" x2="363.33" y1="110" y2="110" stroke="#5c8e9c" stroke-width="7" stroke-linecap="round"/>
+<circle cx="363.33" cy="110" r="6" fill="#9e4020"/>
+<text x="26" y="147" font-size="14">bearing</text>
+<line x1="294.58" x2="409.17" y1="142" y2="142" stroke="#5c8e9c" stroke-width="7" stroke-linecap="round"/>
+<circle cx="363.33" cy="142" r="6" fill="#9e4020"/>
+<text x="26" y="179" font-size="14">belt</text>
+<line x1="225.83" x2="455.00" y1="174" y2="174" stroke="#5c8e9c" stroke-width="7" stroke-linecap="round"/>
+<circle cx="363.33" cy="174" r="6" fill="#9e4020"/>
+<text x="26" y="211" font-size="14">nozzle</text>
+<line x1="386.25" x2="523.75" y1="206" y2="206" stroke="#5c8e9c" stroke-width="7" stroke-linecap="round"/>
+<circle cx="523.75" cy="206" r="6" fill="#9e4020"/>
+<text x="26" y="243" font-size="14">lens</text>
+<line x1="455.00" x2="615.42" y1="238" y2="238" stroke="#5c8e9c" stroke-width="7" stroke-linecap="round"/>
+<circle cx="523.75" cy="238" r="6" fill="#9e4020"/>
+<text x="26" y="275" font-size="14">fan</text>
+<line x1="546.67" x2="638.33" y1="270" y2="270" stroke="#5c8e9c" stroke-width="7" stroke-linecap="round"/>
+<circle cx="638.33" cy="270" r="6" fill="#9e4020"/>
+<text x="26" y="307" font-size="14">guard</text>
+<line x1="592.50" x2="730.00" y1="302" y2="302" stroke="#5c8e9c" stroke-width="7" stroke-linecap="round"/>
+<circle cx="638.33" cy="302" r="6" fill="#9e4020"/>
+<text x="180" y="328" font-size="12">0 min</text>
+<text x="730" y="328" text-anchor="end" font-size="12">24 min</text>
+</g></svg>
