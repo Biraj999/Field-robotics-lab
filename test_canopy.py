@@ -36,7 +36,7 @@ class CanopyTests(unittest.TestCase):
         self.assertIsNone(results[3].cover)
         svg = render_svg(results, low_cover=40)
         ElementTree.fromstring(svg)
-        self.assertEqual(svg, path.with_name("assets").joinpath("preview.svg").read_text(encoding="utf-8"))
+        self.assertEqual(svg, path.with_name("preview.svg").read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":
