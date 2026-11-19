@@ -7,6 +7,7 @@ Runnable experiments in automation, robotics, and uncrewed aerial vehicles. Each
 | Project | Area | Demo |
 | --- | --- | --- |
 | [Canopy Confidence](#canopy-confidence) | UAV | Triage crop plots using synthetic aerial survey measurements. |
+| [Quiet Window](projects/2026-11-22-quiet-window/) | Automation | Batch maintenance reminders within their allowed delivery windows. |
 
 ## Canopy Confidence
 
