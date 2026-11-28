@@ -9,6 +9,7 @@ Runnable experiments in automation, robotics, and uncrewed aerial vehicles. Each
 | [Canopy Confidence](#canopy-confidence) | UAV | Triage crop plots using synthetic aerial survey measurements. |
 | [Quiet Window](projects/2026-11-22-quiet-window/) | Automation | Batch maintenance reminders within their allowed delivery windows. |
 | [Wheel Calibration Replay](projects/2026-11-25-wheel-calibration-replay/) | Robotics | Calibrate differential-drive odometry from measured straight runs and turns. |
+| [Clock Drift Replay](projects/2026-11-28-clock-drift-replay/) | UAV | Align aerial survey camera and logger timestamps from shared trigger events. |
 
 ## Canopy Confidence
 
