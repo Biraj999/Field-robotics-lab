@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 350">
+<title>Held-out timestamp alignment errors</title>
+<rect width="690" height="350" rx="12" fill="#13272f"/>
+<g fill="#f3f5ed" font-family="sans-serif">
+<text x="30" y="39" font-size="24" font-weight="bold">Clock Drift Replay</text>
+<text x="30" y="65" font-size="13">Signed timestamp error on held-out triggers (ms)</text>
+<path d="M79 262.00H652" stroke="#43616c"/>
+<text x="70" y="266.00" text-anchor="end" font-size="12">-11.7</text>
+<path d="M79 180.00H652" stroke="#43616c"/>
+<text x="70" y="184.00" text-anchor="end" font-size="12">0.0</text>
+<path d="M79 98.00H652" stroke="#43616c"/>
+<text x="70" y="102.00" text-anchor="end" font-size="12">11.7</text>
+<polyline points="95.00,98.00 250.38,130.94 381.30,173.27 500.00,198.92 635.00,244.48" fill="none" stroke="#ec9b62" stroke-width="2"/>
+<circle cx="95.00" cy="98.00" r="4" fill="#ec9b62"/>
+<circle cx="250.38" cy="130.94" r="4" fill="#ec9b62"/>
+<circle cx="381.30" cy="173.27" r="4" fill="#ec9b62"/>
+<circle cx="500.00" cy="198.92" r="4" fill="#ec9b62"/>
+<circle cx="635.00" cy="244.48" r="4" fill="#ec9b62"/>
+<text x="269" y="329" fill="#ec9b62" font-size="13">Offset only</text>
+<polyline points="95.00,185.61 250.38,175.79 381.30,182.10 500.00,175.09 635.00,183.50" fill="none" stroke="#60d9b5" stroke-width="2"/>
+<circle cx="95.00" cy="185.61" r="4" fill="#60d9b5"/>
+<circle cx="250.38" cy="175.79" r="4" fill="#60d9b5"/>
+<circle cx="381.30" cy="182.10" r="4" fill="#60d9b5"/>
+<circle cx="500.00" cy="175.09" r="4" fill="#60d9b5"/>
+<circle cx="635.00" cy="183.50" r="4" fill="#60d9b5"/>
+<text x="419" y="329" fill="#60d9b5" font-size="13">Offset + drift</text>
+<text x="95" y="284" text-anchor="middle" font-size="12">12.5 s</text>
+<text x="635.00" y="284" text-anchor="middle" font-size="12">118.5 s</text>
+<text x="365" y="306" text-anchor="middle" font-size="12">Camera time</text>
+</g></svg>
